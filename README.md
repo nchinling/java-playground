@@ -6,3 +6,7 @@ Learning on how to use Hibernate. Implemented using 3 approaches (Reading annota
 
 ## 2. HelloWorld
 Experiment with debugger
+
+## 3. Multithreading 
+Implementation of threads implementing runnable interface and extending Thread class. Multithreading allows task to be run in parallel. 
+

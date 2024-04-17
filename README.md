@@ -10,3 +10,6 @@ Experiment with debugger
 ## 3. Multithreading 
 Implementation of threads implementing runnable interface and extending Thread class. Multithreading allows task to be run in parallel. 
 
+## 4. Exception handling
+Handling a customised exception with a try-catch
+

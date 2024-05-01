@@ -13,3 +13,6 @@ Implementation of threads implementing runnable interface and extending Thread c
 ## 4. Exception handling
 Handling a customised exception with a try-catch
 
+## 5. Future
+For handling asynchronous computations. Codes implement ForkJoinTask/ForkJoinPool, Executors.newSingleThreadExecutor() and Executors.newFixedThreadPool(int threadSize);
+

@@ -16,3 +16,5 @@ Handling a customised exception with a try-catch
 ## 5. Future
 For handling asynchronous computations. Codes implement ForkJoinTask/ForkJoinPool, Executors.newSingleThreadExecutor() and Executors.newFixedThreadPool(int threadSize);
 
+## 6. Base64
+Implementation of base64 encoding and decoding using a text input
